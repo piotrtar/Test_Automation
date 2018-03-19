@@ -1,0 +1,47 @@
+Acceptance criteria
+
+AllPlayerNames:
+iId - 1-4 cyfrowa liczba
+sName - imie i nazwisko oddzielone spacją (może składać się z więcej niż 2 słów)
+sCountryName - nazwa kraju
+sCountryFlag - url do pliku gif
+sCountryFlagLarge - url do pliku png
+
+Cards methods:
+dGame - RRRR-MM-DD
+iMinute - 2-3 digits
+sGameTeam1 - string
+sGameTeam2 - string
+sPlayerName - imie i nazwisko
+m:bYellowCard - boolean
+bRedCard - boolean
+sGameTeam1Flag - url do gif
+sGameTeam1FlagLarge - url do png
+sGameTeam2Flag - url do gif
+sGameTeam2FlagLarge - url do png
+sPlayerFlag - url do gif
+sPlayerFlagLarge - url do png
+
+
+Test 1:
+1. Pobierz listę zawodników za pomocą metody AllCards
+2. Znajdź wszystkich zawodników z czerwonymi kartkami
+3. sprawdź czy metoda AllPlayersWithRedCards zwróci tych samych (i nie innych) zawodników
+4. Sprawdź czy liczba kartek zgadza się z liczbą kartek zwróconych przez metodę AllCards
+
+Test 2:
+1. Pobierz listę zawodników za pomocą metody AllCards
+2. Znajdź wszystkich zawodników tylko z żółtymi kartkami
+3. sprawdź czy metoda AllPlayersWithRedCards nie zawiera tych zawodników
+4. sprawdź czy metoda AllPlayersWithYellowCards zawiera poprawną listę zawodników
+4. sprawdź czy metoda AllPlayersWithYelloworRedCards zawiera poprawną listę zawodników
+
+Test 3:
+1. Pobierz listę zawodników za pomocą metody AllCards
+2. Znajdź zawodników z liczbą żółtych kartek większą niż 1
+3. sprawdź czy metoda AllPlayersWithYellowCards zawiera poprawną listę zawodników
+4. Sprawdź czy liczba kartek się zgadza
+5. sprawdź czy metoda AllPlayersWithYelloworRedCards zawiera poprawną listę zawodników
+6. sprawdź czy liczba kartek się zgadza
+
+
