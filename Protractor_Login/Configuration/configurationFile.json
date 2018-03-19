@@ -1,0 +1,8 @@
+{
+    "Email":"Pomakaro@gmail.com",
+    "Password":"lambolux01",
+    "Longwait": 10000,
+    "Shortwait": 3000,
+    "HomeURL":"https://www.goread.io/",
+    "PageTitle":"go read"
+}
