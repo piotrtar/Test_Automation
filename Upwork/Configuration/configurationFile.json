@@ -1,0 +1,10 @@
+{
+    "HomeURL":"https://www.upwork.com/",
+    "HirePageURL":"https://www.upwork.com/hire/angularjs-developers/",
+    "PageTitle":"Upwork - Hire Freelancers & Get Freelance Jobs Online",
+    "JobType":"Find Freelancers",
+    "Time_to_wait_for_element_to_be_clickable":5000,
+    "expectedTextOnHirePage":"AngularJS Developers",
+    "expectedHeadlineOnHirePage":"Hire the best",
+    "Country":"Austra"
+}
