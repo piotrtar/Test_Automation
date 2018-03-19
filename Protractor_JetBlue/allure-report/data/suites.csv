@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","From home page go to subpage and find non existing flight.Should check 2 fields validation in Book a flight form","11135",""
+"passed","From home page go to subpage and find non existing flight.Should check all fields validation in Book a flight form","8333",""
+"passed","From home page go to subpage and find non existing flight.Should have correct title","13261",""
+"passed","From home page go to subpage and find non existing flight.Should fill the Book a flight form and search","19294",""
+"passed","From home page go to subpage and find non existing flight.Should check filling all fields validation in Book a flight form","9820",""
+"passed","From home page go to subpage and find non existing flight.Should check 3 fields validation in Book a flight form","12181",""
+"passed","From home page go to subpage and find non existing flight.Should check 1 fields validation in Book a flight form","10573",""

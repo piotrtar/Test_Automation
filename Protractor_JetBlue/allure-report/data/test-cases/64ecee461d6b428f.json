@@ -1,0 +1,61 @@
+{
+  "uid" : "64ecee461d6b428f",
+  "name" : "Should check 3 fields validation in Book a flight form",
+  "fullName" : "From home page go to subpage and find non existing flight.Should check 3 fields validation in Book a flight form",
+  "historyId" : "c341fa75a1974d6e5e9913f722439ef5",
+  "time" : {
+    "start" : 1520518790262,
+    "stop" : 1520518802443,
+    "duration" : 12181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4d1596d2973f6ee8",
+      "name" : "Screenshot",
+      "source" : "4d1596d2973f6ee8.png",
+      "type" : "image/png",
+      "size" : 91325
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testClass",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should check 3 fields validation in Book a flight form"
+  }, {
+    "name" : "package",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64ecee461d6b428f.json",
+  "parameterValues" : [ ]
+}

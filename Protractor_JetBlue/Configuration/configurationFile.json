@@ -1,0 +1,23 @@
+{
+    "HomeURL":"https://www2.jetblue.com/",
+    "TimeToWaitForElementToBeClickable":5000,
+    "HomePageTitle":"JetBlue | Airline Tickets, Flights, and Airfare",
+    "FlightsPageTitle":"JetBlue | Flights and Airline Tickets at Discount Prices",
+    "FlightsPageHeader":"Flights",
+    "FromContinent":"Europe",
+    "FromCity":"Frankfurt",
+    "ToContinent":"South America",
+    "ToCity":"Bogota",
+    "DepartureDate":"03-18-2018",
+    "ReturnDate":"03-31-2018",
+    "SearchMsg":"You have selected to fly one-way internationally. Because you're traveling to another country, proof of return travel may be required at the airport.",
+    "ErrorMessage":"No flights have been found for your search criteria. Please search again.",
+    "FromContinent2":"United States",
+    "FromCity2":"New York City",
+    "ToContinent2":"United States",
+    "ToCity2":"Boston, MA",
+    "InvalidDepartCityMsg":"Please enter valid departure city.",
+    "InvalidArrivalCityMsg":"Please enter valid arrival city.",
+    "InvalidDepartDateMsg":"Please enter valid departure date.",
+    "InvalidReturnDateMsg":"Please enter valid return date."
+}

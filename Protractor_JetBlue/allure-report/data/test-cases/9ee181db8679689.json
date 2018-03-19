@@ -1,0 +1,61 @@
+{
+  "uid" : "9ee181db8679689",
+  "name" : "Should have correct title",
+  "fullName" : "From home page go to subpage and find non existing flight.Should have correct title",
+  "historyId" : "f1e79045aadb205f9543f8a33afcf649",
+  "time" : {
+    "start" : 1520518768668,
+    "stop" : 1520518781929,
+    "duration" : 13261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "203073fb9a070ada",
+      "name" : "Screenshot",
+      "source" : "203073fb9a070ada.png",
+      "type" : "image/png",
+      "size" : 68885
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testClass",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should have correct title"
+  }, {
+    "name" : "package",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ee181db8679689.json",
+  "parameterValues" : [ ]
+}

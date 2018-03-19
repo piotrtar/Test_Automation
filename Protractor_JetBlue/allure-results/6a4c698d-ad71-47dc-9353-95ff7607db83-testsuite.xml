@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1520521966513' stop='1520522085682'>
+    <name>From home page go to subpage and find non existing flight</name>
+    <title>From home page go to subpage and find non existing flight</title>
+    <test-cases>
+        <test-case start='1520521966514' status='passed' stop='1520521979174'>
+            <name>Should have correct title</name>
+            <title>Should have correct title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7bf70680-99fb-4e17-9965-9c4dcbfccbea-attachment.png' type='image/png' size='175449'/>
+            </attachments>
+        </test-case>
+        <test-case start='1520521979174' status='passed' stop='1520521986315'>
+            <name>Should check all fields validation in Book a flight form</name>
+            <title>Should check all fields validation in Book a flight form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='97efe888-403a-4274-ba93-f7a7f530cf2f-attachment.png' type='image/png' size='93103'/>
+            </attachments>
+        </test-case>
+        <test-case start='1520521986315' status='passed' stop='1520521997599'>
+            <name>Should check 3 fields validation in Book a flight form</name>
+            <title>Should check 3 fields validation in Book a flight form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f3bff7f1-2a7d-486f-8921-feec9fdb6a06-attachment.png' type='image/png' size='91335'/>
+            </attachments>
+        </test-case>
+        <test-case start='1520521997599' status='passed' stop='1520522008095'>
+            <name>Should check 2 fields validation in Book a flight form</name>
+            <title>Should check 2 fields validation in Book a flight form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0676824d-95d9-4024-8687-f380924e0096-attachment.png' type='image/png' size='89806'/>
+            </attachments>
+        </test-case>
+        <test-case start='1520522008095' status='passed' stop='1520522019061'>
+            <name>Should check 1 fields validation in Book a flight form</name>
+            <title>Should check 1 fields validation in Book a flight form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cf9c390e-d09e-4781-99a6-5a65cd65d21a-attachment.png' type='image/png' size='88186'/>
+            </attachments>
+        </test-case>
+        <test-case start='1520522019062' status='failed' stop='1520522085679'>
+            <name>Should fill the Book a flight form and search</name>
+            <title>Should fill the Book a flight form and search</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='08a34eb2-14ad-422a-84dc-2d489a9ac46b-attachment.png' type='image/png' size='109849'/>
+            </attachments>
+            <failure>
+                <message>Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.</message>
+                <stack-trace>Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.
+                    at Timeout._onTimeout (C:\Users\ptarczon\Desktop\Sii Repository\tester03\Protractor_JetBlue\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4281:23)
+                    at ontimeout (timers.js:475:11)
+                    at tryOnTimeout (timers.js:310:5)
+                    at Timer.listOnTimeout (timers.js:270:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

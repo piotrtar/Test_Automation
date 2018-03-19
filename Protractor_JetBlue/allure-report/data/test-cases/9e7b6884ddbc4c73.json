@@ -1,0 +1,61 @@
+{
+  "uid" : "9e7b6884ddbc4c73",
+  "name" : "Should fill the Book a flight form and search",
+  "fullName" : "From home page go to subpage and find non existing flight.Should fill the Book a flight form and search",
+  "historyId" : "8aba3141bd87ebdaef975eed40d12a",
+  "time" : {
+    "start" : 1520518833973,
+    "stop" : 1520518853267,
+    "duration" : 19294
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1e89f4fcd5b74a",
+      "name" : "Screenshot",
+      "source" : "e1e89f4fcd5b74a.png",
+      "type" : "image/png",
+      "size" : 217316
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testClass",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should fill the Book a flight form and search"
+  }, {
+    "name" : "package",
+    "value" : "From home page go to subpage and find non existing flight"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e7b6884ddbc4c73.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1520521849246' stop='1520521870395'>
+    <name>From home page go to subpage and find non existing flight</name>
+    <title>From home page go to subpage and find non existing flight</title>
+    <test-cases>
+        <test-case start='1520521849247' status='passed' stop='1520521870393'>
+            <name>Should fill the Book a flight form and search</name>
+            <title>Should fill the Book a flight form and search</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8ac0e6b7-6268-42cd-9069-c3002ffd7447-attachment.png' type='image/png' size='217316'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

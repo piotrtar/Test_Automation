@@ -1,0 +1,89 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Should check 2 fields validation in Book a flight form",
+    "uid" : "ef3440dc3ddd630a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518802443,
+      "stop" : 1520518813578,
+      "duration" : 11135
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should check all fields validation in Book a flight form",
+    "uid" : "4ec7918550d860a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518781929,
+      "stop" : 1520518790262,
+      "duration" : 8333
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should have correct title",
+    "uid" : "9ee181db8679689",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518768668,
+      "stop" : 1520518781929,
+      "duration" : 13261
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should fill the Book a flight form and search",
+    "uid" : "9e7b6884ddbc4c73",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518833973,
+      "stop" : 1520518853267,
+      "duration" : 19294
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should check filling all fields validation in Book a flight form",
+    "uid" : "f5414dc959ca7d92",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518824152,
+      "stop" : 1520518833972,
+      "duration" : 9820
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should check 3 fields validation in Book a flight form",
+    "uid" : "64ecee461d6b428f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518790262,
+      "stop" : 1520518802443,
+      "duration" : 12181
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should check 1 fields validation in Book a flight form",
+    "uid" : "4327b98d2effdf05",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1520518813579,
+      "stop" : 1520518824152,
+      "duration" : 10573
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
