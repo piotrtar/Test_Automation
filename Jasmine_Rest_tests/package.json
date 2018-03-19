@@ -1,0 +1,17 @@
+{
+  "name": "jasmine_rest_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requestManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "node-rest-client": "^3.1.0",
+    "request": "^2.85.0"
+  }
+}
